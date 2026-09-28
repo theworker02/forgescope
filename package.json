@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/forgescope",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Forge HTML/Markdown scope fragments safely for docs pipelines.",
+  "bin": {
+    "forgescope": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/forgescope.git"
+  },
+  "homepage": "https://theworker02.github.io/forgescope/",
+  "keywords": [
+    "forge",
+    "scope",
+    "markup",
+    "cli",
+    "toolkit"
+  ]
+}
